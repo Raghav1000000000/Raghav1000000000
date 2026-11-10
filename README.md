@@ -27,6 +27,6 @@ ship        Vercel · GitHub Pages · Git
 
 ### `$ ping raghav`
 
-Want something built, or a site fixed? Reach me through **[Root Directory Project](https://raghav1000000000.github.io/root-directory-project/)**, or use the email on my profile.
+Want something built, or a site fixed? Reach me through **[Root Directory Project](https://raghav1000000000.github.io/root-directory-project/)**, or find me on **[LinkedIn](https://www.linkedin.com/in/raghavmittal100/)**.
 
 <sub>`~/root/raghav` · `exit 0`</sub>
