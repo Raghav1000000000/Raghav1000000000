@@ -7,3 +7,6 @@
 
 ## 2026-11-10 · v1.1
 - Contact line now points to LinkedIn instead of the profile email (GitHub hides the email from signed-out visitors).
+
+## 2026-11-10 · v1.2
+- `.gitattributes`: banner build script no longer shows the repo as "Python".
