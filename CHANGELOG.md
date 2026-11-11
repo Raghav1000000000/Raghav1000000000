@@ -16,3 +16,6 @@
 
 ## 2026-11-11 · v1.4
 - MeetX link points at the renamed repo, meetx-social-discovery-cloud.
+
+## 2026-11-11 · v1.5
+- Projects list now includes Restaurant Order Management, Records Management Platform and Tea Delivery Booking System.

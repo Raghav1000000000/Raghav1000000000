@@ -13,6 +13,9 @@ I also take on client work under my own name at **[raghav1000000000.github.io](h
 ### `$ ls ./projects`
 
 - **[MeetX](https://github.com/Raghav1000000000/meetx-social-discovery-cloud)**: a mobile-first app for meeting interesting people nearby, with discovery, short-lived chats, meetups, local offers and an admin dashboard. `TypeScript` `Expo` `Express` `MongoDB`
+- **[Restaurant Order Management](https://github.com/Raghav1000000000/restaurant-order-management)**: a café ordering system where customers order from their phone, the kitchen sees orders live, and the owner manages the menu and daily numbers. `Next.js` `TypeScript` `Supabase Realtime`
+- **[Records Management Platform](https://github.com/Raghav1000000000/records-management-platform)**: a role-based system for staff, student and visitor records, with imports and exports, row-level security and an audit trail. Demo-safe copy of a production system. `Next.js` `TypeScript` `Supabase`
+- **[Tea Delivery Booking System](https://github.com/Raghav1000000000/tea-delivery-booking-system)**: booking and dispatch for a mobile tea service, with a protected admin dashboard and live shop status. `Node.js` `Express` `MongoDB`
 - **[ShubhSandesh](https://github.com/Raghav1000000000/shubhsandesh)**: festival greetings for Indian small businesses, with their name and logo on the post, a festival-morning reminder and one tap to send on WhatsApp. [Try the prototype ↗](https://raghav1000000000.github.io/shubhsandesh/prototype/)
 - **[Scent Stories](https://github.com/Raghav1000000000/scent-stories)**: a gentle guide to perfume for beginners in India.
 
