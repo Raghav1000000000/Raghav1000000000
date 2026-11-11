@@ -10,3 +10,9 @@
 
 ## 2026-11-10 · v1.2
 - `.gitattributes`: banner build script no longer shows the repo as "Python".
+
+## 2026-11-11 · v1.3
+- Website moved and rebranded: links now go to https://raghav1000000000.github.io/ under "Raghav Mittal" (Root Directory Project name dropped).
+
+## 2026-11-11 · v1.4
+- MeetX link points at the renamed repo, meetx-social-discovery-cloud.
