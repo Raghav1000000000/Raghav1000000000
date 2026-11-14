@@ -22,10 +22,33 @@ I also take on client work under my own name at **[raghav1000000000.github.io](h
 ### `$ cat stack.txt`
 
 ```txt
-languages   TypeScript · JavaScript · Python · Java
-frontend    React · React Native (Expo) · HTML/CSS
-backend     Node.js · Express · MongoDB
-ship        Vercel · GitHub Pages · Git
+languages TypeScript · JavaScript · Java
+          Python · SQL · HTML/CSS
+frontend  React · Next.js · Vite
+          React Router · TanStack
+          Zustand · React Hook Form · Zod
+mobile    React Native · Expo Router
+          Capacitor (Android)
+design    Tailwind CSS · shadcn/ui
+          Radix UI · Framer Motion
+          Lucide · Recharts · SVG
+backend   Node.js · Express · Spring Boot
+          Spring Security · JWT
+          Socket.io · OpenAPI
+data      PostgreSQL · MongoDB · Redis
+          Mongoose · Firebase · SQLite
+cloud     Supabase Auth · Storage
+          Realtime · Row-level security
+          MongoDB Atlas · Upstash
+ship      Vercel · Render · Netlify
+          Railway · GitHub Pages
+          GitHub Actions · Git
+automate  Google Apps Script
+          Sheets API · Nodemailer
+          node-cron · FFmpeg
+ai        Gemini API
+test      Vitest · Testing Library
+          Playwright · k6
 ```
 
 ### `$ ping raghav`

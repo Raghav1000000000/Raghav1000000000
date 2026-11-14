@@ -19,3 +19,6 @@
 
 ## 2026-11-11 · v1.5
 - Projects list now includes Restaurant Order Management, Records Management Platform and Tea Delivery Booking System.
+
+## 2026-11-14 · v1.6
+- `$ cat stack.txt` lists the full stack in 12 groups, including a new design row; lines kept to 41 characters so it fits a phone screen.
